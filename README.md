@@ -11,6 +11,10 @@ I am a Web Developer with a huge love for Laravel, Vue.js, Python, RDBMS and Wor
 - :wrench: Tools - VSCode, Netbeans nad Kaggle
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushow&layout=compact&theme=radical)](https://github.com/rushow/github-readme-stats)
+
 ### Numbers
 ![Moman's Stats](https://github-readme-stats.vercel.app/api?username=rushow&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
