@@ -9,7 +9,7 @@ I am a Web Developer with a huge love for Laravel, Vue.js, Python, RDBMS and Wor
 - :partying_face: Fun fact: I love to hang out, I love to travel
 - :book: I love to read books and listen to music.
 - :busts_in_silhouette: I'm an amateur photographer (https://www.pexels.com/@rushow/)
-- :wrench: Tools - VSCode, Netbeans, and Kaggle
+- :wrench: Tools - VSCode, WebStorm, PyCharm, Netbeans, and Kaggle
 - 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity.
 
 <br />
