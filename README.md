@@ -1,8 +1,8 @@
 ### Hi there 👋, Greetings from Moman Khan
 
-I am a Web Developer with a huge love for Laravel, Vue.js, Python, RDBMS and WordPress. 
 
-
+### Some Facts About Me
+ 
 - :fireworks: I was a Project Manager and also interested in working with teams
 - 🔭 Currently I'm a PhD Researcher at the University of Regina, Canada.
 - 🔭 I’m currently learning Image Processing, Data Mining and Machine Learning techniques.
