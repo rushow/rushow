@@ -64,7 +64,7 @@
 
 - 🔗 [LinkedIn](https://linkedin.com/in/momankhan)  
 - 🌐 [Portfolio Website](https://rushow.github.io/)
-- 📬 Email: [mkp051@gmail.com, moman.uregina@gmail.com, khan.rushow@gmail.com]  
+- 📬 Email: [mkp051@uregina.ca, moman.uregina@gmail.com, khan.rushow@gmail.com]  
 
 ---
 
