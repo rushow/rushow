@@ -1,4 +1,8 @@
-### Hi there 👋, Greetings from Moman Khan
+### 👋 Hi, I'm Moman Khan
+
+### 🎓 PhD Candidate | 🧑‍🏫 University Teaching Fellow | 🤖 AI Researcher | 💻 Full-Stack Developer
+
+---
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -20,7 +24,13 @@
 
 
 ### Some Facts About Me
- 
+
+- 🔬 I’m currently a PhD candidate in Computer Science at the University of Regina, Canada. My research focuses on **Concept Drift Detection**, **Adaptive Learning**, and **AI for Financial Fraud Detection**.
+
+- 🧑‍🏫 I also serve as a University Teaching Fellow, mentoring undergraduate students and leading courses like *Software Engineering Methodologies*. I enjoy breaking down complex concepts and inspiring the next generation of technologists.
+
+- 💼 With over **10 years of professional experience** in web development and project management, I bring a practical, problem-solving mindset to both academic and industry challenges. I'm passionate about combining real-world applications with cutting-edge AI research.
+
 - 🔭 Currently I'm a PhD Researcher at the University of Regina, Canada.
 - 🔭 I’m currently Working with Image Processing, Data Mining and Machine Learning techniques.
 - :fireworks: I was a Project Manager and also interested in working with teams.
