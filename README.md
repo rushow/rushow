@@ -53,6 +53,29 @@
 
 ---
 
+## 🏆 Achievements
+
+- 🥇 Lean Six Sigma Yellow Belt Certified  
+- 🏆 People’s Choice Award – *XploreGenie AI* Startup Bootcamp  
+- 📊 Top Teams at National Datathon – Mental Health Service Gap Analysis  
+
+---
+
+## 📫 Let’s Connect
+
+🔗 [LinkedIn](https://linkedin.com/in/momankhan)  
+🌐 [Portfolio Website](https://yourwebsite.com) *(optional)*  
+📬 Email: [yourname@domain.com]  
+
+---
+
+> “Progress cannot be generated when we are satisfied with existing situations.” – *Taiichi Ohno*
+
+Thanks for visiting my profile! 🚀  
+Feel free to explore, fork, or reach out — I'm always open to collaborations on AI, education, or impactful tech projects.
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
