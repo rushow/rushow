@@ -15,7 +15,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
@@ -31,9 +30,6 @@
 
 - 💼 With over **10 years of professional experience** in web development and project management, I bring a practical, problem-solving mindset to both academic and industry challenges. I'm passionate about combining real-world applications with cutting-edge AI research.
 
-- 🔭 Currently I'm a PhD Researcher at the University of Regina, Canada.
-- 🔭 I’m currently Working with Image Processing, Data Mining and Machine Learning techniques.
-- :fireworks: I was a Project Manager and also interested in working with teams.
 - :partying_face: Fun fact: I love to hang out, I love to travel
 - :book: I love to read books and listen to music.
 - :busts_in_silhouette: I'm an amateur photographer (https://www.pexels.com/@rushow/)
@@ -41,6 +37,21 @@
 - 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity.
 
 <br />
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools:**  
+`Python` | `JavaScript` | `PHP` | `Java` | `SQL` | `HTML/CSS`  
+**Frameworks:**  
+`Laravel` | `Vue.js` | `React` | `Django` | `Flask`  
+**AI & ML:**  
+`PyTorch` | `TensorFlow` | `Scikit-learn` | `Pandas` | `NumPy`  
+**Dev Tools:**  
+`Git` | `Docker` | `PostgreSQL` | `MongoDB` | `MySQL`
+
+---
 
 ### Languages and Tools:
 
