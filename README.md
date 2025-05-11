@@ -43,9 +43,9 @@
 ## 🛠️ Tech Stack
 
 **Languages & Tools:**  
-`Python` | `JavaScript` | `PHP` | `Java` | `SQL` | `HTML/CSS`  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | `Java` | `SQL` | `HTML/CSS`  
 **Frameworks:**  
-`Laravel` | `Vue.js` | `React` | `Django` | `Flask`  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) | `React` | `Django` | `Flask`  
 **AI & ML:**  
 `PyTorch` | `TensorFlow` | `Scikit-learn` | `Pandas` | `NumPy`  
 **Dev Tools:**  
@@ -63,9 +63,9 @@
 
 ## 📫 Let’s Connect
 
-🔗 [LinkedIn](https://linkedin.com/in/momankhan)  
-🌐 [Portfolio Website](https://rushow.github.io/)
-📬 Email: [mkp051@gmail.com, moman.uregina@gmail.com, khan.rushow@gmail.com]  
+- 🔗 [LinkedIn](https://linkedin.com/in/momankhan)  
+- 🌐 [Portfolio Website](https://rushow.github.io/)
+- 📬 Email: [mkp051@gmail.com, moman.uregina@gmail.com, khan.rushow@gmail.com]  
 
 ---
 
