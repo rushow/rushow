@@ -64,8 +64,8 @@
 ## 📫 Let’s Connect
 
 🔗 [LinkedIn](https://linkedin.com/in/momankhan)  
-🌐 [Portfolio Website](https://yourwebsite.com) *(optional)*  
-📬 Email: [yourname@domain.com]  
+🌐 [Portfolio Website](https://rushow.github.io/)
+📬 Email: [mkp051@gmail.com, moman.uregina@gmail.com, khan.rushow@gmail.com]  
 
 ---
 
