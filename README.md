@@ -55,7 +55,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 Lean Six Sigma Yellow Belt Certified  
+- 🥇 Lean Six Sigma Yellow Belt8 and White Belt Certified  
 - 🏆 People’s Choice Award – *XploreGenie AI* Startup Bootcamp  
 - 📊 Top Teams at National Datathon – Mental Health Service Gap Analysis  
 
